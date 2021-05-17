@@ -10,6 +10,8 @@ int main()
 	{
 		cout << i << endl;
 	}
+	
+	cout << "Goodbye!:D"<<endl;
 
 	return 0;
 	system("pause");
